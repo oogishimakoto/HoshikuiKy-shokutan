@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GarbageCollector
+  - Spawner
+  - Mission
+  - Enemy
+  - Boss
+  - StaticObject
+  - GameOver
+  - Pause
+  - FxTemporaire
+  - Light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Enemy
+  - Onomatopoeia
+  - Player
+  - DetectEnemy
+  - Terrain
+  - PlayerBullet
+  - EnemyAttack
+  - AttackableObject
+  - PlayerAttack
+  - DetectPlayer
+  - BlockDetector
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BossGolem
+  - BossDiabolos
+  - BossUltimate
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

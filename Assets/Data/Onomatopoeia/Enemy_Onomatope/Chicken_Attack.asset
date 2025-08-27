@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dc0296d4a0259249be7c496d9fbfcbb, type: 3}
+  m_Name: Chicken_Attack
+  m_EditorClassIdentifier: 
+  wordToUse: "\u30DD\u30A4\u30C3"
+  onomatoSprite: {fileID: 21300000, guid: 6809498b25807b54aa56b2c668b91a84, type: 3}
+  spriteSize: 0.3
+  spriteAnimSpeed: 1
+  onomatoACont: {fileID: 22100000, guid: f92ed71a299897e49934b9802919b0d9, type: 2}
+  fontAsset: {fileID: 11400000, guid: 40ebecea6a7fb6b4e9bfeb174c259461, type: 2}
+  fontColor:
+    serializedVersion: 2
+    rgba: 4294901760
+  type: 5
+  damageBuff: 0
+  speedBuff: 1.1
+  healBuff: 0
+  rageBuff: 0
+  buffDuration: 10
+  onomatoSE: {fileID: 0}
