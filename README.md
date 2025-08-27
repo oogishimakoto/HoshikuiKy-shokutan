@@ -18,7 +18,9 @@ C#/Mathematica/ShaderLab
 約6か月
 
 🌐 実行方法
-Unity バージョン 2023.2.14f1 で開き実行可能 📸 スクリーンショット image image image
+Unity バージョン 2023.2.14f1 で開き実行可能 
+
+📸 スクリーンショット image image image
 
 📸 スクリーンショット
 <img width="915" height="515" alt="image" src="https://github.com/user-attachments/assets/b5d772e2-2a81-430e-bfef-957a1eb1c126" />
